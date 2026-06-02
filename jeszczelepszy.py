@@ -14,7 +14,7 @@ from multiprocessing import Pool
 # 🔹 Ustawienia
 n = ecdsa.SECP256k1.order
 G = ecdsa.SECP256k1.generator
-target_address = "12ib7dApVFvg82TXKycWBNpN8kFyiAN1dr"
+target_address = "1D2B7zfX6HgnuG7bMT1znFMsGdqX97Fnon"
 
 # 🔹 Lista transakcji do testowania
 transactions = [
