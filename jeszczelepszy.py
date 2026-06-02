@@ -18,7 +18,7 @@ target_address = "12ib7dApVFvg82TXKycWBNpN8kFyiAN1dr"
 
 # 🔹 Lista transakcji do testowania
 transactions = [
-    {"r": 0x6ab210cc165defd57a0dceafde3814b27d4e9a173f0586b62f74bd7975b903ec,
+    {"r": 42af7b84c7e3aed62c5e727bc8688d5bcdd97058b41c57e6526b0e1794d951ba,
      "s": 0x761c1fdec8053a6d0ccd4956c1d4b34197d1f7648f64a2d51e364eff804ccf25,
      "z": 0x5b82d7fa7a8cf290f5daa567ee5cb4b038c6e8c238d4bfc07d7208c3563a4573},
 
