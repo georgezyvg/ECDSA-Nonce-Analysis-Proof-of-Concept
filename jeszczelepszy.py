@@ -24,7 +24,7 @@ transactions = [
 
     {"r": 0x4204e1db3eba462403eaecfc5863200f1013600f2bc58eafa91d7d5431eb810b,
      "s": 0x1e74a679dd54fc691ce897b6d96727372acc6b323648a6f51455892da12e7a5a,
-     "z": 0xf3196693e7514fe9195e65cd49c11bb84f81e61a60fc73db12c5f6d19f05f329},
+     "z": 0x6db402c97486867f3dd85e5b718c3cd03833a0de330e6470adac507a3eb04314},
 ]
 
 # 🔹 Przechowywanie historycznych wartości `k`
